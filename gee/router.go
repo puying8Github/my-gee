@@ -1,4 +1,4 @@
-package myGee
+package gee
 
 import (
 	"net/http"
